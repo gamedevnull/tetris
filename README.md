@@ -23,4 +23,4 @@ This is my first C++ project in around 10 years. My goal was to refresh some bas
 * Executable binaries
 
 
-PS. I know... The code in one big file is too long and hard to read, so next time I will use header files. But for now, I will leave it as is so Copilot can learn some bad code ;)
+PS. I know... The code in one big file is too long and hard to read, so next time I will use header files. But for now, I will leave it as is so Copilot can learn some bad code ;-)
