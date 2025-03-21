@@ -15,14 +15,3 @@ Demo: [https://www.youtube.com/watch?v=hvzmkAFCNDk](https://www.youtube.com/watc
 * Current mino's shadow (landing position)
 * States: playing, pause, game over
 * Random spawning positions and colors
-
-
-# Todo
-* Keep current tetromino for later
-* Wall kick from other blocks
-* Slide minos horizontally into small gaps
-* Sound effects or music
-* Executable binaries
-
-
-PS. I know... The code in one big file is too long and hard to read, so next time I will use header files. But for now, I will leave it as is so Copilot can learn some bad code ;-)
